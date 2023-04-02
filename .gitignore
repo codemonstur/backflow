@@ -1,9 +1,4 @@
-.idea/*
-target/* 
+.*
+target
 *.iml
-.gradle/
-build/
-*.jar
-bin/
-.DS_Store
 
